@@ -97,30 +97,6 @@ Acredito que aprender envolve mais do que fazer algo funcionar: também é impor
 
 </div>
 
-## Atividade no GitHub
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gekilll&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&custom_title=Atividade%20no%20GitHub"
-    width="100%"
-    alt="Gráfico de atividade no GitHub"
-  />
-
-</div>
-
-## Conquistas
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Gekilll&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4"
-    width="95%"
-    alt="Conquistas do GitHub"
-  />
-
-</div>
-
 ## Histórico de contribuições
 
 <div align="center">
